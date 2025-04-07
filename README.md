@@ -1,7 +1,5 @@
 # CuackProxy
 
-# CuackProxy
-
 ## Description
 
 CuackProxy is a project designed to provide anonymous browsing using the Tor network. This proxy aims to enhance privacy by routing internet traffic through the Tor network, masking the user's IP address and location.
